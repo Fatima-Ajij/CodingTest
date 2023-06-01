@@ -1,0 +1,7 @@
+C:\Users\fatim\source\repos\MegaPrime\MegaPrime.CLI\bin\Debug\MegaPrime.CLI.exe.config
+C:\Users\fatim\source\repos\MegaPrime\MegaPrime.CLI\bin\Debug\MegaPrime.CLI.exe
+C:\Users\fatim\source\repos\MegaPrime\MegaPrime.CLI\bin\Debug\MegaPrime.CLI.pdb
+C:\Users\fatim\source\repos\MegaPrime\MegaPrime.CLI\obj\Debug\MegaPrime.CLI.csproj.AssemblyReference.cache
+C:\Users\fatim\source\repos\MegaPrime\MegaPrime.CLI\obj\Debug\MegaPrime.CLI.csproj.CoreCompileInputs.cache
+C:\Users\fatim\source\repos\MegaPrime\MegaPrime.CLI\obj\Debug\MegaPrime.CLI.exe
+C:\Users\fatim\source\repos\MegaPrime\MegaPrime.CLI\obj\Debug\MegaPrime.CLI.pdb
